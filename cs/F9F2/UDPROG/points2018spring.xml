@@ -8,7 +8,7 @@
       
 <student>
       <name>Löki Tamás</name>
-      <points>287.8</points>
+      <points>335.4</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/123oTdbvlO5S43HhztXonWYCpQYGH3XvPv4XmAs1bS04/edit?usp=sharing</bookingurl>
 </student>
       
@@ -33,13 +33,13 @@
 
 <student>
       <name>Kovács Ferencz</name>
-      <points>779.6</points>
+      <points>891.2</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1NVGjDVXQQFIorXV7K6VwkzCKjb1LW49Z-V3ApnWklVQ/edit?usp=sharing</bookingurl>
 </student>
 
 <student>
       <name>Nagy Márta</name>
-      <points>461.2</points>
+      <points>494.2</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1Fa9j-d6g0VehziC--CTRTsUG_7acPLdqI5dbp6aXvKc/edit?usp=sharing</bookingurl>
 </student>
 
@@ -64,7 +64,7 @@
       
 <student>
       <name>Tóth Balázs</name>
-      <points>150</points>
+      <points>162.00</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/16uTpOmaFeOInXZBfK9HWWN48m3tt_4g2v9UDikkatLQ/edit?usp=sharing</bookingurl>
 </student>
       
@@ -95,7 +95,7 @@
 
 <student>
       <name>Ferenczi Fruzsina</name>
-      <points>322.2</points>
+      <points>405.8</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/17unDn0TRFjcSci8fuJbfin_YUxwzXdqzk6gTsaSwmNU/edit?usp=sharing</bookingurl>
 </student>
       
@@ -144,7 +144,7 @@
       
 <student>
       <name>Nemes Bence</name>
-      <points>101.28</points>
+      <points>272.88</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1aOvzfrkB5k_gOu0MZCP0uVwH2t0r9KKvGvT_DOW7s5E/edit?usp=sharing</bookingurl>
 </student>      
       
@@ -177,11 +177,40 @@
       <points>324.672</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1qiiEtIAsj_55qffvdCF776pp7X64jKfmWVnANUvAgWs/edit#gid=0</bookingurl>
 </student> 
+ 
+ <student>
+      <name>Olaru Alexandra</name>
+      <points>201.12</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1NLKl3PqK8IqPFKut0zS6krlcIzlOjC-6CzIip33QYOQ/edit#gid=0</bookingurl>
+</student> 
       
  <student>
       <name>Eszenyi Barbara</name>
-      <points>66</points>
-      <bookingurl>https://docs.google.com/spreadsheets/d/13vwh5gEnDKVXIc1hnfV0j22XoVIyAT2yq2OUmXvlDcM/edit?usp=sharing>
+      <points>78</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/13vwh5gEnDKVXIc1hnfV0j22XoVIyAT2yq2OUmXvlDcM/edit#gid=0>
 </student>
+  
+    <student>
+      <name>Szabó Ákos</name>
+      <points>86.4</points>
+      <bookingurl>https://drive.google.com/file/d/1amkODxaZDPVW7dEACG3RojiXFK_fIdTq/view?usp=sharing</bookingurl>
+</student>
+  
+  <student>
+      <name>Balla Tamás</name>
+      <points>248.64</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1rAc1I7hppYqFmNGom_zRjc96-zO4RCnZ6UM2sSVJTv8/edit#gid=0</bookingurl>
+</student> 
  
+<student>
+      <name>Bartalis Vilmos</name>
+      <points>337.8</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1f3EV4PUA2TNKf_Ibg3i60qNAmxFN_uiPP2bqUm4Nc34/edit?usp=sharing</bookingurl>
+</student>
+  
+ <student>
+      <name>Forgács László</name>
+      <points>212,8</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/11usfwzpzzFnx0UIDtex52MGSlgRgptPV5AM4YahAaTw/edit?usp=sharing</bookingurl>
+</student>
 </udprogpoints>

@@ -110,7 +110,12 @@
       <points>337.25</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1dAZjMcQhMkEoJ0Qhzgwd7gpqSN88ApcMihtiSiVqm08/edit#gid=0</bookingurl>
 </student>     
-      
+ 
+ <student>
+      <name>Csipkés Gergő</name>
+      <points>482.6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1WXBC-yct9M5FgE674SdIdVrcSzLS0h5TrXClBvaz_Xo/edit#gid=483318628</bookingurl>
+</student>
 
 <student>      
       <name>Tóth Csaba</name>
@@ -214,9 +219,4 @@
       <bookingurl>https://docs.google.com/spreadsheets/d/11usfwzpzzFnx0UIDtex52MGSlgRgptPV5AM4YahAaTw/edit?usp=sharing</bookingurl>
 </student>
   
-<student>
-      <name>Csipkés Gergő</name>
-      <points>482.6</points>
-      <bookingurl>https://docs.google.com/spreadsheets/d/1WXBC-yct9M5FgE674SdIdVrcSzLS0h5TrXClBvaz_Xo/edit#gid=483318628</bookingurl>
-</student>
 </udprogpoints>

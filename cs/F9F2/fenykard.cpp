@@ -82,15 +82,15 @@ int get_points ( boost::filesystem::path file )
                 std::string val = line.substr ( l, r );
 
                 try {
-		  
-                        points += std::stoi ( val );
-			
-                } catch (std::invalid_argument e) {
 
-		  std::cerr << line << std::endl;
-		  std::cerr << val << std::endl;		  
-		  throw e;
-		  
+                        points += std::stoi ( val );
+
+                } catch ( std::invalid_argument e ) {
+
+                        std::cerr << line << std::endl;
+                        std::cerr << val << std::endl;
+                        throw e;
+
                 }
         }
 
@@ -390,9 +390,17 @@ void print_submarks ( Submarks & submarks )
 
 bool repl_mark ( Submarks & submarks, std::string name, std::string act, std::string root, std::string marks, int markv )
 {
+
         bool replaced {false};
 
-        if ( !act.find ( root ) ) {
+        auto r = act.find_last_of ( "/" );
+
+        if ( r == std::string::npos )
+                r = act.length();
+
+        std::string tact = act.substr ( 0, r );
+
+        if ( !tact.compare ( root ) ) {
 
                 auto i = act.find ( marks );
 
@@ -403,6 +411,7 @@ bool repl_mark ( Submarks & submarks, std::string name, std::string act, std::st
                                 if ( submarks[name][root] < markv ) {
                                         submarks[name][root] = markv;
                                         replaced = true;
+
                                 }
 
                         } else {

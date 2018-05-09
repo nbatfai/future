@@ -181,7 +181,13 @@
  <student>
       <name>Eszenyi Barbara</name>
       <points>66</points>
-      <bookingurl>https://docs.google.com/spreadsheets/d/13vwh5gEnDKVXIc1hnfV0j22XoVIyAT2yq2OUmXvlDcM/edit?usp=sharing>
+      <bookingurl>https://docs.google.com/spreadsheets/d/13vwh5gEnDKVXIc1hnfV0j22XoVIyAT2yq2OUmXvlDcM/edit?usp=sharing</bookingurl>
+</student>
+  
+<student>
+      <name>Csipkés Gergő</name>
+      <points>438.7</points>
+      <bookingurl>https://drive.google.com/file/d/1KqUsxUv-81Dn9dqdCCZxTUi19qZciQM_/view?usp=sharing</bookingurl>
 </student>
  
 </udprogpoints>

@@ -22,7 +22,7 @@
                     <xsl:for-each select="student">    
                         <xsl:sort select="points" data-type="number" order="descending" />                    
                         <xsl:choose>
-                            <xsl:when test="(position() &gt;= 16) and (position() &lt;= 30)">
+                            <xsl:when test="(position() &gt;= 24) and (position() &lt;= 46)">
                                 <tr class="offered_3">
                                     <td>
                                         <xsl:value-of select="position()"/>
@@ -41,7 +41,7 @@
                                     </td>
                                 </tr>
                             </xsl:when>
-                            <xsl:when test="(position() &gt;= 6) and (position() &lt;= 15)">
+                            <xsl:when test="(position() &gt;= 8) and (position() &lt;= 23)">
                                 <tr class="offered_4">
                                     <td>
                                         <xsl:value-of select="position()"/>
@@ -60,7 +60,7 @@
                                     </td>
                                 </tr>
                             </xsl:when>
-                            <xsl:when test="position() &lt;= 5">
+                            <xsl:when test="position() &lt;= 7">
                                 <tr class="offered_5">
                                     <td>
                                         <xsl:value-of select="position()"/>

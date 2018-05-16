@@ -998,6 +998,45 @@ echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1400"		>>  City/Debrec
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/GE
 echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 2000"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/GE/GE.props
 
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Overwatch.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Offense
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Offense/Offense.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Defense
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Defense/Defense.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Tank
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Tank/Tank.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Support
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Support/Support.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt/Egyéni
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 4"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt/Egyéni/Egyéni.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt/Csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 3"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt/Csapat/Csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Custom
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 2"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Custom/Custom.props
+echo "Belbecs/Tapasztalat/Közösségi 1" 					>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Custom/Custom.props
+echo "Belbecs/Tudás/Informatika/Játékkultúra 1" 			>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Custom/Custom.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Közösségi
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Közösségi/Közösségi.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/B
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 100"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/B/B.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/S
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 250"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/S/S.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/G
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 500"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/G/G.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/P
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 750"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/P/P.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/D
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1000"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/D/D.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/M
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1250"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/M/M.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/GM
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1500"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/GM/GM.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/Top500
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 2000"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/Top500/Top500.props
+
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/offline
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/offline/tartás

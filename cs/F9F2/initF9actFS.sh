@@ -931,7 +931,7 @@ echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/LoL 2000"		>>  City/Debrec
 
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO
-echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/LoL.props
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/CSGO.props
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Entry\ Fragger
 echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO/Entry\ Fragger 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Entry\ Fragger/Entry\ Fragger.props
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Refragger

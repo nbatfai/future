@@ -718,6 +718,16 @@ mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/CSGO
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/CoD
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/RB6S
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/Overwatch 
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/Overwatch/DPS 
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/Overwatch/DPS/Flanker 
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/Overwatch/DPS/Damage 
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/Overwatch/DPS/Sniper 
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/Overwatch/Rangsorolt 
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/Overwatch/Rangsorolt/Egyéni 
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/Overwatch/Rangsorolt/Csapat
+
+
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/RTS
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/RTS/0AD
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/CCG
@@ -1235,3 +1245,9 @@ echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/LoL 200"		>> City/Debrecen
 
 #echo "Külcsín/Kor/min 16" >> City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/LoL/ESL/LoL\ 5on5\ Summoners\ Arena/LoL\ 5on5\ Summoners\ Arena.props
 #echo "Belbecs/Tapasztalat/Verseny rutin 10" >> City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/LoL/ESL/LoL\ 5on5\ Summoners\ Arena/LoL\ 5on5\ Summoners\ Arena.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/Overwatch/ESL 
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 180" >> City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/Overwatch/ESL/ESL.props 
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/Overwatch/ESL/Go4Overwatch\ Europe\ Cup 
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 200" >> City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/Overwatch/ESL/Go4Overwatch\ Europe\ Cup/Go4Overwatch\ Europe\ Cup.props 
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/Overwatch/ESL/Overwatch\ 1on1\ Last\ Man\ Standing echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 200" >> City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/Overwatch/ESL/Overwatch\ 1on1\ Last\ Man\ Standing/Overwatch\ 1on1\ Last\ Man\ Standing.props

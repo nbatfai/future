@@ -929,6 +929,192 @@ echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/LoL 1400"		>>  City/Debrec
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsor/C
 echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/LoL 2000"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsor/C/C.props
 
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/CSGO.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Entry\ Fragger
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO/Entry\ Fragger 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Entry\ Fragger/Entry\ Fragger.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Refragger
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Refragger/Refragger.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Strat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Strat/Strat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Lurker
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Lurker/Lurker.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/AWPer
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/AWPer/AWPer.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsorolt
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsorolt/Egyéni
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 4"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsorolt/Egyéni/Egyéni.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsorolt/Csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 3"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsorolt/Csapat/Csapat.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Custom
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 2"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Custom/Custom.props
+echo "Belbecs/Tapasztalat/Közösségi 1" 					>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Custom/Custom.props
+echo "Belbecs/Tudás/Informatika/Játékkultúra 1" 			>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Custom/Custom.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Közösségi
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Közösségi/Közösségi.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/I
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 20"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/I/I.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/II
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 50"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/II/II.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/III
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 80"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/III/III.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/IV
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 110"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/IV/IV.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/Elite
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 140"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/Elite/Elite.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/Elite\ Master
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 170"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/S/Elite\ Master/Elite\ Master.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G/NovaI
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 300"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G/NovaI/NovaI.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G/NovaII
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 330"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G/NovaII/NovaII.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G/NovaIII
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 360"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G/NovaIII/NovaIII.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G/Nova\ Master
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 390"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/G/Nova\ Master/Nova\ Master.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M/GuardianI
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 700"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M/GuardianI/GuardianI.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M/GuardianII
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 740"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M/GuardianII/GuardianII.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M/Guardian\ Elite
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 780"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M/Guardian\ Elite/Guardian\ Elite.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M/Distinguished\ Master\ Guardian
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 820"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/M/Distinguished\ Master\ Guardian/Distinguished\ Master\ Guardian.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/L
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/L/Eagle
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1000"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/L/Eagle/Eagle.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/L/Eagle\ Master
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1200"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/L/Eagle\ Master/Eagle\ Master.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/L/Supreme\ Master\ First\ Class
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 1400"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/L/Supreme\ Master\ First\ Class/Supreme\ Master\ First\ Class.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/GE
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 2000"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/CSGO/Rangsor/GE/GE.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Overwatch.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Offense
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Offense/Offense.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Defense
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Defense/Defense.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Tank
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Tank/Tank.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Support
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Support/Support.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt/Egyéni
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 4"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt/Egyéni/Egyéni.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt/Csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 3"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsorolt/Csapat/Csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Custom
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 2"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Custom/Custom.props
+echo "Belbecs/Tapasztalat/Közösségi 1" 					>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Custom/Custom.props
+echo "Belbecs/Tudás/Informatika/Játékkultúra 1" 			>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Custom/Custom.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Közösségi
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Közösségi/Közösségi.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/B
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 100"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/B/B.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/S
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 250"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/S/S.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/G
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 500"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/G/G.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/P
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 750"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/P/P.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/D
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1000"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/D/D.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/M
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1250"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/M/M.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/GM
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 1500"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/GM/GM.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/Top500
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 2000"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/Overwatch/Rangsor/Top500/Top500.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/RB6S.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack/IGL
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack/IGL/IGL.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack/Entry\ fragger
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack/Entry\ fragger/Entry\ fragger.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack/Flank\ watcher
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack/Flank\ watcher/Flank\ watcher.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack/Support
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Attack/Support/Support.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Defense
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Defense/Early\ roamer
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Defense/Early\ roamer/Early\ roamer.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Defense/Late\ roamer
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Defense/Late\ roamer/Late\ roamer.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Defense/Anchor
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Defense/Anchor/Anchor.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsorolt
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsorolt/Egyéni
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 4"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsorolt/Egyéni/Egyéni.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsorolt/Csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 3"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsorolt/Csapat/Csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Custom
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 2"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Custom/Custom.props
+echo "Belbecs/Tapasztalat/Közösségi 1" 					>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Custom/Custom.props
+echo "Belbecs/Tudás/Informatika/Játékkultúra 1" 			>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Custom/Custom.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Közösségi
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Közösségi/Közösségi.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C/IV
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 100"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C/IV/IV.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C/III
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 125"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C/III/III.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C/II
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 150"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C/II/II.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C/I
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 175"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/C/I/I.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B/VI
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 250"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B/VI/VI.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B/III
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 300"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B/III/III.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B/II
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 350"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B/II/II.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B/I
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 400"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/B/I/I.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S/VI
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 500"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S/VI/VI.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S/III
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 550"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S/III/III.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S/II
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 600"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S/II/II.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S/I
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 650"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/S/I/I.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G/VI
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 750"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G/VI/VI.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G/III
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 850"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G/III/III.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G/II
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 950"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G/II/II.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G/I
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1050"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/G/I/I.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/P
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/P/III
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1250"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/P/III/III.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/P/II
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1450"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/P/II/II.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/P/I
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 1650"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/P/I/I.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/D
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 2000"	>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/FPS/RB6S/Rangsor/D/D.props
+
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/offline
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/offline/tartás
@@ -951,6 +1137,86 @@ mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/LoL/B\ csapat
 echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/LoL 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/LoL/B\ csapat/B\ csapat.props
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/LoL/UP
 echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/LoL 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/LoL/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CSGO
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CSGO/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CSGO/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CSGO/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CSGO/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CSGO/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/CSGO 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CSGO/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CR
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CR/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Mobil/CR 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CR/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CR/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Mobil/CR 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CR/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CR/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Mobil/CR 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CR/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/StarCraftII
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/StarCraftII/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/RTS/StarCraftII 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/StarCraftII/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/StarCraftII/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/RTS/StarCraftII 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/StarCraftII/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/StarCraftII/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/RTS/StarCraftII 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/StarCraftII/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CoC
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CoC/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Mobil/CoC 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CoC/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CoC/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Mobil/CoC 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CoC/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CoC/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Mobil/CoC 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/CoC/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Dota2
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Dota2/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/Dota2 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Dota2/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Dota2/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/Dota2 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Dota2/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Dota2/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/Dota2 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Dota2/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/PUBG
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/PUBG/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/PUBG 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/PUBG/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/PUBG/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/PUBG 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/PUBG/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/PUBG/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/PUBG 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/PUBG/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/FIFA
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/FIFA/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Sport/FIFA 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/FIFA/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/FIFA/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Sport/FIFA 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/FIFA/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/FIFA/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/Sport/FIFA 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/FIFA/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Overwatch
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Overwatch/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Overwatch/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Overwatch/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Overwatch/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Overwatch/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/Overwatch 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/Overwatch/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/RB6S
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/RB6S/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/RB6S/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/RB6S/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/RB6S/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/RB6S/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/FPS/RB6S 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/RB6S/UP/UP.props
+
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/WoT
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/WoT/A\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/WoT 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/WoT/A\ csapat/A\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/WoT/B\ csapat
+echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/WoT 7"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/WoT/B\ csapat/B\ csapat.props
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/WoT/UP
+echo "Belbecs/Tudás/Informatika/Játékkultúra/MOBA/WoT 14"		>> City/Debrecen/Sport/Esport/DEAC-Hackers/Edzés/online/WoT/UP/UP.props
 
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Verseny/LoL

@@ -339,11 +339,11 @@ echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" >> City
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító
 echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/Leet-Angol\ fordító.props
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C
-echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C/C.props
+echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C/C.props
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C++
-echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C++/C++.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C++/C++.props
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/Python
-echo "Belbecs/Tudás/Informatika/Programozás/Python 1" 			>> mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/Python/Python.props
+echo "Belbecs/Tudás/Informatika/Programozás/Python 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/Python/Python.props
 
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szó-számoló

@@ -304,3 +304,5 @@ mkdir City/Debrecen/Sport
 mkdir City/Debrecen/Sport/Esport
 
 . deac.sh
+
+. bevprog.sh
